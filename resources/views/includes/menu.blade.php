@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../style_layout.css">
+<!-- <link rel="stylesheet" href="../style_layout.css">
 <div class="navbar">
    <div class="navbar-inner">
    <div class="konten">
@@ -17,4 +17,4 @@
         </section>
    </div> 
    </div>
-</div>
+</div> -->
